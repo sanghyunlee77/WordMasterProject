@@ -20,7 +20,7 @@ public class WordManger {
 	*********************
 	=> 원하는 메뉴는? 4 이런 느낌?
 	 */
-	void WordManager(){
+	 WordManger(){
 		wordCRUD = new WordCRUD(s);
 	}
 	
